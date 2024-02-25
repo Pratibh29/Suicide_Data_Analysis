@@ -1,1 +1,2 @@
 # Suicide_Data_Analysis
+Welcome to the data science endeavor focused on analyzing the Suicide Dataset, a repository of vital statistics regarding suicides from various countries and demographics. This project aims to delve into the complex dynamics surrounding suicide rates, exploring factors such as country-wise trends, demographic patterns, socio-economic indicators, and potential correlations.
